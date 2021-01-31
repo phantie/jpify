@@ -1,4 +1,4 @@
-(ns loju.core-test
+(ns jpify.core-test
   (:require [clojure.test :refer :all]
             [loju.core :refer :all]))
 

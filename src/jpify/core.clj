@@ -1,4 +1,4 @@
-(ns loju.core
+(ns jpify.core
     (:require [clj-http.client :as client])
     (:require [clojure.string :as s])
     (:require [environ.core :refer [env]]))
